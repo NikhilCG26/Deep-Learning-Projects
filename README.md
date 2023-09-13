@@ -1,6 +1,6 @@
 # Deep-Learning-Projects - Introduction to Deep Learning - 11785 - Carnegie Mellon University
 
-## [[Assignment 1 - Phoneme Recognition]] (https://github.com/NikhilCG26/Deep-Learning-Projects/tree/main/Assignment%201%20-%20Phoneme%20Recognition):
+## [[Assignment 1 - Phoneme Recognition]](https://github.com/NikhilCG26/Deep-Learning-Projects/tree/main/Assignment%201%20-%20Phoneme%20Recognition):
 Implemented phoneme recognition model with **89.2%** on Librispeech
 
 ## Assignment 2 - Face Classification and Verification:
